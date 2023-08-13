@@ -1,5 +1,7 @@
 # Big-Data-and-Data-Analytics-for-Managers-BDDA-Projects
 Project (1) - Rain in Australia and Project (2) - HR Analytics: Job Change of Data Scientists
+
+
 About the project (1) - Rain in Australia
 This project makes a prediction model to predict the weather for the next day in Australia. It predicts whether it will rain or not using a binary outcome.
 
