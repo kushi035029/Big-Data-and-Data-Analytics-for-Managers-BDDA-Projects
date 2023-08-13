@@ -2,11 +2,11 @@
 Project (1) - Rain in Australia and Project (2) - HR Analytics: Job Change of Data Scientists
 
 
-About the project (1) - Rain in Australia
+# About the project (1) - Rain in Australia
 This project makes a prediction model to predict the weather for the next day in Australia. It predicts whether it will rain or not using a binary outcome.
 
 About dataset:
-The dataset contains data about registrations and observations about wheater by meteorological stations in days in Australia.This dataset contains daily weather observations from numerous Australian weather stations. The target is the feature RainTomorrow that responds to the question: "Will it rain tomorrow in Australia? Yes or no".
+The dataset contains data about registrations and observations about wheater by meteorological stations in days in Australia.This dataset contains daily weather observations from numerous Australian weather stations. The target is the feature RainTomorrow that responds to the question: "Will it rain tomorrow in Australia? Yes or no."
 
 Dimensions of dataset:
 145460 rows and 23 columns
@@ -14,7 +14,7 @@ Dimensions of dataset:
 Sources:
 Dataset is obtained from https://www.kaggle.com/jsphyg/weather-dataset-rattle-package/home
 
-About the project(2) - HR Analytics: Job Change of Data Scientists
+# About the project(2) - HR Analytics: Job Change of Data Scientists
 The project is intended to forecast whether candidates would leave or remain with the organisation after receiving training. During the sign-up procedure, details about candidates' demographics, education, and practical experience are recorded. The project also tells how likely it is that a candidate will stay with the business after completing its training program.
 
 About dataset:
